@@ -5,7 +5,8 @@
 }
 
 window#waybar {
-  background-color: rgba(0, 0, 0, 0);
+  /* background-color: rgba(0, 0, 0, 0); */
+  background-color: rgba(26, 26, 26, 0.76);
   /* border-bottom: 3px solid rgba(100, 114, 125, 0.5); */
   /* color: #ffffff; */
   /* transition-property: background-color; */
@@ -21,7 +22,7 @@ window#waybar.hidden {
   padding-right: 10px;
   padding-left: 10px;
   /* For bottom position */
-  border-radius: 0px 6px 0px 0px;
+  /* border-radius: 0px 6px 0px 0px; */
   /* For top position */
   /* border-radius: 0px 0px 6px 0px; */
   margin-left: 0;
@@ -31,9 +32,9 @@ window#waybar.hidden {
   padding: 0px 10px;
   background-color: #0a0a0a;
   /* For bottom position */
-  border-radius: 6px 6px 0px 0px;
+  /* border-radius: 6px 6px 0px 0px; */
   /* For top position */
-  /* border-radius: 0px 0px 6px 6px; *\/ */
+  /* border-radius: 0px 0px 6px 6px; */
   margin-left: 0;
 }
 
@@ -42,7 +43,7 @@ window#waybar.hidden {
   padding-left: 10px;
   background-color: #0a0a0a;
   /* For bottom position */
-  border-radius: 6px 0px 0px 0px;
+  /* border-radius: 6px 0px 0px 0px; */
   /* For top position */
   /* border-radius: 0px 0px 0px 6px; */
   margin-left: 0;
